@@ -1,5 +1,4 @@
 ![logo](https://i.imgur.com/GQ3l8dn.png)
-# 20201214 JC edit file
 # Opencore Gen-X [![Build Status](https://app.bitrise.io/app/473fb5331e0f3e0b/status.svg?token=eSaO284QaMqmUOe497QpTQ&branch=master)](https://app.bitrise.io/app/473fb5331e0f3e0b)
 ## All-In-One Opencore EFI Creation Utility
 
